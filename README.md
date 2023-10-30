@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanket-gupta-a8159a23a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket-gupta-a8159a23a" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanket003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanket003" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanketgurenz/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanketgurenz/profile" height="30" width="40" /></a>
 </p>
 
@@ -23,4 +24,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketgupta1000&show_icons=true&locale=en&layout=compact" alt="sanketgupta1000" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketgupta1000&show_icons=true&locale=en" alt="sanketgupta1000" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketgupta1000&" alt="sanketgupta1000" /></p>
 
