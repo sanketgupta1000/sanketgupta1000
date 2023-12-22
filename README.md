@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketgupta1000&label=Profile%20views&color=0e75b6&style=flat" alt="sanketgupta1000" /> </p>
 
-- 🔭 I’m currently working on **Blue Notes, a notes app built with PHP, JS, MDB**
+- 🔭 I’m currently working on some projects
 
-- 🌱 I’m currently learning **Material Design Bootstrap**
+- 🌱 I’m currently learning Java, DAA
 
 - 💬 Ask me about **C/C++, HTML5, JS, CSS, MDB**
 
