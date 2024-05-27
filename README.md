@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on some projects
 
-- 🌱 I’m currently learning Java, DAA
+- 🌱 I’m currently learning Java, DAA, React
 
-- 💬 Ask me about **C/C++, HTML5, JS, CSS, MDB**
+- 💬 Ask me about **C/C++, HTML5, JS, CSS, Java, React**
 
 - 📫 How to reach me **sanketgupta1000@gmail.com**
 
